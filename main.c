@@ -15,7 +15,6 @@ if (scanf("%lf", &x) != 1)
 {
 return 1;
 }
- 
 if (x < 0)
 {
 printf("NG");
